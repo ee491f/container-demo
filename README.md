@@ -2,9 +2,9 @@
 A demonstration of the Django material for [EE491F](https://ee491f.github.io/course-material/#containers "EE491F Course Webpage").  
 Accompanying Notes: [https://jamboard.google.com/d/11tQUEHEEhOFPUx1_mCC7pb5IsTzUO4kdFg83OYP6QTE/edit?usp=sharing](https://jamboard.google.com/d/11tQUEHEEhOFPUx1_mCC7pb5IsTzUO4kdFg83OYP6QTE/edit?usp=sharing "Jamboard")
 Accompanying Videos:
-* Overview: [TBD](TBD "Overview")
-* Docker: [TBD](TBD "Docker")
-* Docker Compose: [TBD](TBD "Docker Compose")
+* Overview: [https://youtu.be/yV3Gc9JmyA8](https://youtu.be/yV3Gc9JmyA8 "Overview")
+* Docker: [https://youtu.be/kp3cm5-gFyc](https://youtu.be/kp3cm5-gFyc "Docker")
+* Docker Compose: [https://youtu.be/Wna9A_4gQlw](https://youtu.be/Wna9A_4gQlw "Docker Compose")
 
 Docker Commands
 ---------------
